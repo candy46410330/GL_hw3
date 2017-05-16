@@ -1,0 +1,48 @@
+姓名:楊方寧
+學號:605415032
+E-mail:candy46410330@yahoo.com.tw
+作業環境:Win10 64bit
+編譯器:Visual Studio 2013
+
+備註：
+1.所有相關程式碼(包含exe檔)在hw3_605415032\GL_hw2資料夾下。
+2.demo_605415032.mp4為程式實際執行狀況影片
+3.demo影片在hw3_605415032資料夾下
+
+指定作業功能: 
+1.Create the 3d world : (30%)
+1)loading rubber duck from SMF file,sitting on the part of robot,such as a shoulder
+可以load黃色小鴨,將小鴨放置在機器人的手上
+2)Create 3D robot
+有創了一隻彩色的3D機器人
+3)Floor
+創了一個綠色地板
+
+2.Move and Action robot by the keyboard : (25%)
+
+z:機器人向左轉身
+x:機器人向右轉身
+c:機器人向左移動
+v:機器人向右移動
+b:機器人向前移動
+n:機器人向後移動
+g:快速轉視野
+h:視野向左轉
+j:視野像右轉
+k:視野向前動
+l:視野向後動
+w:關燈
+
+3.Toggle the view point : (15%)
+初始設定是<第一人稱視野>在機器人頭上
+可調動g(快速調視野)或k(視野向前)->h(視野向左轉)->l(視野往後移)<變成第三人稱視野>
+
+4.Lighting : (15%)
+初始設定是有打燈
+可調動w(關燈)
+
+5.Mirror : (15%)
+有創透明鏡子......
+
+額外bonus操作功能:
+  (1)在demo_605415032.mp4的影片為實際操作影片
